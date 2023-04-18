@@ -8,7 +8,7 @@ profile:
   align: right
   image: profile.jpg
   image_circular: true # crops the image to make it circular
-  address: 
+  address:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -18,7 +18,7 @@ I am a PhD student under the supervision of [Pr. Yannick Estève](https://schola
 
 More broadly I am interested in understanding how we can use Artificial Neural Networks to help us understand, organize and analyze large quantities of data.   
 
-On my spare time I enjoy getting new perspectives by reading books or watching movies, cooking nice meals and hiking.
+On my spare time I enjoy getting new perspectives by reading books, traveling or watching movies, cooking nice meals and hiking.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
