@@ -19,7 +19,7 @@
           contents:
             - Designing a contextual structured semantic annotation scheme for task-oriented dialogue dataset.
             - Ranking 1st in the "Speech Aware" Dialogue State Tracking Challenge (DSTC11).
-            - Communicating results in top-tier conferences (ACL, InterSpeech).
+            #- Communicating results in top-tier conferences (ACL, InterSpeech).
     - title: Master of Science
       institution: <a href="hhttps://www.univ-grenoble-alpes.fr/">University of Grenoble Alpes</a>, France
       year: 2021
