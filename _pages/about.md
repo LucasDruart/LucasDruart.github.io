@@ -14,9 +14,9 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a PhD student under the supervision of [Pr. Yannick Estève](https://scholar.google.com/citations?user=dQDAeBYAAAAJ&hl) and [Dr. Valentin Vielzeuf](https://scholar.google.com/citations?hl=fr&user=ve7hYuQAAAAJ). I work between [Orange Labs](https://www.orange.com/) and the Speech and Language Team of [LIA](https://lia.univ-avignon.fr/). My research focuses on ***Spoken Language Understanding (SLU)*** in the context of ***Task-Oriented Dialogues (TOD)***.
+I am a PhD student under the supervision of [Pr. Yannick Estève](https://scholar.google.com/citations?user=dQDAeBYAAAAJ&hl) and [Dr. Valentin Vielzeuf](https://scholar.google.com/citations?hl=fr&user=ve7hYuQAAAAJ). I work jointly with [Orange Labs](https://www.orange.com/) and the Speech and Language Team of [LIA](https://lia.univ-avignon.fr/). My research focuses on ***Spoken Language Understanding (SLU)*** in the context of ***Task-Oriented Dialogues (TOD)***.
 
-More broadly I am interested in understanding how we can use Artificial Neural Networks to help us understand, organize and analyze large quantities of data.   
+More broadly I am interested in understanding how to use Artificial Neural Networks to help us understand, organize and analyze large quantities of data.   
 
 On my spare time I enjoy getting new perspectives by reading books, traveling or watching movies, cooking nice meals and hiking.
 
